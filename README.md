@@ -8,5 +8,5 @@ EventMe is an Android application.
 * [Andreas Agapitos](https://github.com/andreasagap)
 * [Pantelis Kyriakidis](https://github.com/PantelisKyriakidis)
 * [Ioannis Ampatzidis](https://github.com/ioampatzidis)
-- [Giorgos Panagiotatos](https://github.com/panagiotat)
-- [Theodoros Karolidis](https://github.com/karolidis)
+* [Giorgos Panagiotatos](https://github.com/panagiotat)
+* [Theodoros Karolidis](https://github.com/karolidis)
